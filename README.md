@@ -1,6 +1,8 @@
 i3lock-fancy
 ============
 
+**What's new in this fork: Not taking a screenshot of the desktop, instead it falls back to the default behavior of i3lock (white bg or `-i` option). It is also not applying any blur/grayscale/pixelating effetcs.**
+
 This is an i3lock bash script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
 
 website: [github pages website](http://meskarune.github.io/i3lock-fancy/)
